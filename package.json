@@ -1,8 +1,8 @@
 {
   "name": "connect-attack",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A connect middleware for blocking & throttling abusive clients",
-  "main": "index.js",
+  "main": "lib/attack",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -21,6 +21,7 @@
     "middleware",
     "throttling"
   ],
+  "author": "Tarkus Liu <hello@tarkus.im>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "gitHead": "b7f29b6b141d8302d9f19cfb01b3cf253a142a84",

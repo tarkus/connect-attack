@@ -3,16 +3,13 @@
 
 connect-attack is a connect middleware inspired by Rack::Attack, aims to protect your node.js web application from bad clients.
 
-## Roadmap
-
-### The Next Few Weeks
+## Work In Progress
 
 Implement 
 
 * whitelistling
 * blacklistling
 * throttling
-* tracking
 
 Also store throttle state in a configurable cache backend.
 
