@@ -1,0 +1,30 @@
+{
+  "name": "connect-attack",
+  "version": "0.0.3",
+  "description": "A connect middleware for blocking & throttling abusive clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tarkus/connect-attack.git"
+  },
+  "dependencies":{
+    
+  },
+  "devDependencies":{
+    "mocha": "*"
+  },
+  "keywords": [
+    "connect",
+    "middleware",
+    "throttling"
+  ],
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "b7f29b6b141d8302d9f19cfb01b3cf253a142a84",
+  "bugs": {
+    "url": "https://github.com/tarkus/connect-attack/issues"
+  }
+}
